@@ -1,7 +1,8 @@
 # Hi there 👋, My name is Gaurav Mishra
 
-### You can see My projects by clicking on 
-## <a href="https://bitwisegaurav.github.io/projects.html" target="_blank">My Projects</a>
+### You can see Portfolio & My projects by clicking on 
+# [Portfolio](https://bitwisegaurav.github.io)
+<a href="https://bitwisegaurav.github.io/projects.html" target="_blank">My Projects</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bitwisegaurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bitwisegaurav) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bitwisegaurav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bitwisegaurav) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bitwisegaurav) 
